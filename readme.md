@@ -2,6 +2,7 @@
 Modellare la struttura di una tabella per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario.
 
 ## Nome tabella:
+Cars
 
 ## Struttura tabella:
 - ID | BIGINT - AUTO_INCREMENT - PRIMARY_KEY(NOTNULL, UNIQUE)
