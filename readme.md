@@ -8,6 +8,7 @@ Cars
 - ID | BIGINT - AUTO_INCREMENT - PRIMARY_KEY(NOTNULL, UNIQUE)
 - model | VARCHAR(30) - NOTNULL
 - price | INT - FLOAT(8, 2) - NOTNULL
+- currency | VARCHAR(3) - NOTNULL
 - registration_year | DATE - NOTNULL
 - mileage | VARCHAR(12) - NULL
 - fuel_type | VARCHAR(16) - NULL
